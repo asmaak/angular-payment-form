@@ -9,3 +9,6 @@ parseFloat converts BigInt syntax to Numbers
 -- how generate custome pipe
 ng g p <name of pipe
 >
+npm install -g angular-cli-ghpages 
+ ng build --prod --base-href  https://asmaak.github.io/angular-paymentForm/ 
+ ngh --dir dist/pipes
